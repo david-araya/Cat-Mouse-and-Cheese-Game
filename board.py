@@ -1,5 +1,3 @@
-
-
 board = [[' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' '],
         [' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' '],
         [' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' '],
@@ -12,24 +10,26 @@ board = [[' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' '],
         [' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' '],
         [' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' '],
         [' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ']]
+        
+def hello_world(): return 1
 
-def bestMoveCat(board,depth,mouse):
+#def bestMoveCat(board,depth,mouse):
 
-def bestMoveMouse(board,depth,cat, cheese):
+#def bestMoveMouse(board,depth,cat,cheese):
 
-def possibleMoves(board):
+#def possibleMoves(board):
 
-def clearScreen():
+#def clearScreen():
 
-def printBoard(board,mouse,cat,cheese):
+#def printBoard(board,mouse,cat,cheese):
 
-def mouseTurn(mouse,cat):
+#def mouseTurn(mouse,cat):
 
-def checkScore():
+#def checkScore():
 
-def move(x,y,player):
+#def move(x,y,player):
 
-def catTurn(cat,mouse):
+#def catTurn(cat,mouse):
 
-def main():
+#def main():
 
